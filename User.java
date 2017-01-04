@@ -5,6 +5,8 @@ public class User{
 
       private int age;
 
+      private boolean marry;
+
       public void setName(String name){
            this.name = name;
       }
